@@ -56,7 +56,7 @@
 ### Step 11:
   Stop
 # Program:
-```
+```c
 #include<stdio.h>
 int main(){
     float math,science,english,average;
@@ -108,7 +108,7 @@ Thus, the program was implemented and executed successfully, and the required ou
   Stop
 
 # Program:
-```
+```c
 #include<stdio.h>
 int main(){
     int number=15,i;
@@ -163,7 +163,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 7:   
   Stop
 # Program:
-```
+```c
 #include<stdio.h>
 int main(){
     int n, i = 2, f = 0;
@@ -194,7 +194,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-2- Module 2 - FoC
 # Ex.No:9
   Generate the C code to display the pattern below.  
- ``` 
+ ```c 
  12345  
  2   4  
  3   3  
@@ -233,7 +233,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
-```
+```c
 #include<stdio.h>
 
 int main(){
@@ -318,7 +318,7 @@ int main(){
 ### Step 8:
   Stop
 # Program:
-```
+```c
 #include<stdio.h>
 
 int main(){
